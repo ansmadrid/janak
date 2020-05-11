@@ -377,6 +377,7 @@
 .rd-navbar-static .rd-megamenu-list li > a,
 .rd-navbar-static .rd-megamenu-list li > a::before {
 	transition: .15s ease-in-out;
+	margin-bottom: 5px;
 }
 
 .rd-navbar-static .rd-navbar-dropdown li > a::before,

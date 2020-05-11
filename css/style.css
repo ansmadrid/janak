@@ -190,7 +190,7 @@
 }
 
 .team-classic-figure .team-classic-soc-list a {
-	color: #C4C4C4;
+	color: #237abe;
 }
 
 .team-classic-figure .team-classic-soc-list a:hover {
@@ -216,6 +216,10 @@
 .team-name {
 	font-weight: 500;
 	line-height: 40px;
+}
+.team-designation{
+	color: #237abe !important;
+	font-weight: bold !important;
 }
 
 .team-classic:hover {
